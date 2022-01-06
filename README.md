@@ -1,5 +1,8 @@
 ### About Qinglin
+![visitors](https://visitor-badge.glitch.me/badge?page_id=qinglin.qinglin)
 
+- 🔭 I’m currently working on CSSC
+- 🌱 I’m currently learning Web3.0, React, Pandas
 <!--
 **qinglin/qinglin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=qinglin.qinglin)
 
+![Metrics](https://metrics.lecoq.io/qinglin?template=classic&base.header=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&notable.indepth=false&config.timezone=Asia%2FShanghai)
